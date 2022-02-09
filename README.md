@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @emirene
-- I’m studying to become a cybersecurity proffesional.
-- I’m currently learning several coding topics and how to run servers.
+- I'm currently working on my associate's degree in cybersecurity.
+- I have a website and a YouTube channel
+- http://emilyhoule.com
+- https://www.youtube.com/channel/UCKKA_I_6yjB01LylEsuFiqw
 
 
 
